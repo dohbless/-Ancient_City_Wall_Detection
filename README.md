@@ -7,3 +7,4 @@ based on  Camouflaged Object Detection
     设定为每90帧截取一次
 ### 1.2 制作yolo数据集
 - https://blog.csdn.net/weixin_44791964/article/details/106214657
+- https://github.com/bubbliiiing/yolo3-pytorch
