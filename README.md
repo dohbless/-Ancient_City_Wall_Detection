@@ -14,6 +14,9 @@ based on  Camouflaged Object Detection
 - https://www.bilibili.com/video/BV1Q54y1D7vj?p=16&spm_id_from=pageDriver
 - https://blog.csdn.net/weixin_44791964/article/details/107517428    问题汇总
 - https://blog.csdn.net/weixin_44791964/article/details/105123842    资源汇总
+
+- 打开终端，进入pycharm-2018.1.4/bin；
+- sh ./pycharm.sh
 ## 2. Yolo+mobilenet(Pytorch/keras)
 - https://www.bilibili.com/video/BV1LT4y1P7cK
 - https://blog.csdn.net/weixin_44791964/article/details/107359153
