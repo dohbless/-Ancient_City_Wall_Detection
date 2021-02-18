@@ -8,6 +8,8 @@ based on  Camouflaged Object Detection
 ### 1.2 制作yolo数据集
 - https://blog.csdn.net/weixin_44791964/article/details/106214657
 - https://github.com/bubbliiiing/yolo3-pytorch
+- 数据集网盘链接:
+
 ### 1.3 在pytorch框架上训练yoloV4
 - https://www.bilibili.com/video/BV1Q54y1D7vj?p=16&spm_id_from=pageDriver
 - https://blog.csdn.net/weixin_44791964/article/details/107517428    问题汇总
@@ -15,3 +17,5 @@ based on  Camouflaged Object Detection
 ## 2. Yolo+mobilenet(Pytorch/keras)
 - https://www.bilibili.com/video/BV1LT4y1P7cK
 - https://blog.csdn.net/weixin_44791964/article/details/107359153
+## 3. mAP+FPS计算
+- https://www.bilibili.com/video/BV1zE411u7Vw?p=2
