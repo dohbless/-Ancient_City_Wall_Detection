@@ -22,3 +22,10 @@ based on  Camouflaged Object Detection
 - https://blog.csdn.net/weixin_44791964/article/details/107359153
 ## 3. mAP+FPS计算
 - https://www.bilibili.com/video/BV1zE411u7Vw?p=2
+### 3.1 Keras安装
+- 对应版本查询:https://docs.floydhub.com/guides/environments/
+- pip install  keras==2.3.1
+### 3.2 LabelImg安装
+- pip install lxml-i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+- pip install -i https://pypi.douban.com/simple --trusted-host pypi.douban.com lxml
+
